@@ -17,6 +17,10 @@
 - [x] Thorough testing of frontend and backend integration
 
 ## Pending
+- [x] Enhance login page design to match landing page UI
+  - [x] Create Login.css with modern styling and animations
+  - [x] Update Login.js to import CSS and add functionalities (show/hide password, remember me)
+  - [ ] Test the enhanced login page
 
 ## Notes
 - Backend runs on port 5000
